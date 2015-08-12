@@ -1,0 +1,29 @@
+<div id="daumIndex" class="d_index">
+<a id="mainServiceDirectLink" rel="bookmark" href="#mainServiceTitle" class="shortcut_g" tabindex="12">
+<span class="img_vert inner_shortcut">주요 서비스 바로가기</span>
+</a>
+<a id="mediaDirectLink" rel="bookmark" href="#mediaTitle" class="shortcut_g" tabindex="12">
+<span class="img_vert inner_shortcut">미디어 바로가기</span>
+</a>
+<a id="issueDirectLink" rel="bookmark" href="#liveIssueTitle" class="shortcut_g" tabindex="12">
+<span class="img_vert inner_shortcut">실시간 이슈 바로가기</span>
+</a>
+<a id="weatherDirectLink" rel="bookmark" href="#localWeatherTitle" class="shortcut_g" tabindex="12">
+<span class="img_vert inner_shortcut">현재 지역 날씨 바로가기</span>
+</a>
+<a id="multiMediaDirectLink" rel="bookmark" href="#multiMediaTitle" class="shortcut_g" tabindex="12">
+<span class="img_vert inner_shortcut">재밌는 정보 바로가기</span>
+</a>
+<a id="storyDirectLink" rel="bookmark" href="#storyTitle" class="shortcut_g" tabindex="12">
+<span class="img_vert inner_shortcut">유익한 정보 바로가기</span>
+</a>
+<a id="shoppingDirectLink" rel="bookmark" href="#shoppingTitle" class="shortcut_g" tabindex="12">
+<span class="img_vert inner_shortcut">쇼핑 바로가기</span>
+</a>
+<a id="topAccessibility" href="/doc/top_accessibility.html" class="shortcut_g" tabindex="12">
+<span class="img_vert inner_shortcut">웹 접근성 안내</span>
+</a>
+<a id="topAdAccessibility" href="/doc/top_accessibility.html#ad" class="shortcut_g" tabindex="12">
+<span class="img_vert inner_shortcut">자동실행 광고 설정</span>
+</a>
+</div>
